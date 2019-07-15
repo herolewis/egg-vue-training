@@ -33,12 +33,12 @@ module.exports = appInfo => {
         dialectOptions: {
             charset: 'utf8mb4'
         },
-        database: 'insentek_test',
-        host: 'rm-bp1f87x2437q5r89a.mysql.rds.aliyuncs.com',
-        port: '3306',
-        username: 'insentek',
-        password: '49k8KRPWdJccgxNN',
-        timezone: '+08:00'
+        // database: '',
+        // host: '',
+        // port: '3306',
+        // username: '',
+        // password: '',
+        // timezone: '+08:00'
     };
 
     config.security = {
